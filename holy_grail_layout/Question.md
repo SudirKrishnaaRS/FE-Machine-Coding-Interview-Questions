@@ -1,4 +1,4 @@
-# Holy Grail Layout (HTML, CSS, and JavaScript)
+# Holy Grail Layout (HTML and CSS)
 
 ## Question:
 
@@ -14,3 +14,7 @@ Requirements are
 ### Holy Grail layout Sample
 
 ![image](https://github.com/SudirKrishnaaRS/FE-Machine-Coding-Interview-Questions/assets/67383465/32b46598-f14d-4002-86df-4d5b66ab7a4e)
+
+### Solution Screenshot
+
+![image](https://github.com/SudirKrishnaaRS/FE-Machine-Coding-Interview-Questions/assets/67383465/e8c419e6-63a0-4e56-bc97-21b3a5004932)
