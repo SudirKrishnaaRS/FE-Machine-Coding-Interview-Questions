@@ -1,10 +1,10 @@
 # Modal
 
 Concepts involved: 
-React useState hook, conditional rendering 
-CSS: position, transform, z-index
+- React: useState hook, conditional rendering 
+- CSS: position, transform, z-index
 
-YT Reference : https://youtu.be/ZCvemsUfwPQ?si=8IYKqKNeu_ivzAGv
+YT Reference: https://youtu.be/ZCvemsUfwPQ?si=8IYKqKNeu_ivzAGv
 
 ## Screenshots
 Home Page 
