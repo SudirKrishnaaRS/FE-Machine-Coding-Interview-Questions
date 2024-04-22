@@ -1,0 +1,59 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Semi-transparent black background */
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Ensure the modal overlay is above other elements */
+  z-index: 9999;
+}
+
+.modal-container {
+  background-color: #fff;
+  color: black;
+  width: 350px;
+  height: 350px;
+  border: 2px solid #efeeee;
+  border-radius: 12px;
+  padding: 30px;
+  /* Below 4 lines are very important */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-text {
+  /* Allow the text to grow and take up available space */
+  flex-grow: 1;
+}
+
+.cancel-symbol {
+  cursor: pointer;
+}
+
+.divider {
+  border-color: #e2e2e2;
+}
+
+.modal-content {
+  height: 250px;
+  text-align: justify;
+  padding: 10px;
+  word-wrap: normal;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: space-around;
+}
