@@ -1,6 +1,7 @@
 # Infinite Scroll
 
-## Difficulty: Easy
+## Difficulty: 
+- Easy
 
 ## YT reference :
 - Overall Idea : https://youtu.be/R875l9cfR-g?si=EIlIYmWm7fHRdNHn
