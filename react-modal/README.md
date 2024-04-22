@@ -1,8 +1,15 @@
-# React + Vite
+# Modal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Concepts involved: 
+React useState hook, conditional rendering 
+CSS: position, transform, z-index
 
-Currently, two official plugins are available:
+YT Reference : https://youtu.be/ZCvemsUfwPQ?si=8IYKqKNeu_ivzAGv
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+Home Page 
+![image](https://github.com/SudirKrishnaaRS/FE-Machine-Coding-Interview-Questions/assets/67383465/64e19784-a4b9-4df8-9259-d75e1d18ae8f)
+
+Modal 
+![image](https://github.com/SudirKrishnaaRS/FE-Machine-Coding-Interview-Questions/assets/67383465/c8ff2ad2-a013-447a-9776-f2fe102014ee)
+
