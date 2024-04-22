@@ -1,6 +1,9 @@
 # Modal
 
-Concepts involved: 
+## Difficulty
+- Easy
+
+## Concepts involved: 
 - React: useState hook, conditional rendering 
 - CSS: position, transform, z-index
 
