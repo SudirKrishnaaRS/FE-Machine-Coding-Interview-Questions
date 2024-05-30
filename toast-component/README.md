@@ -1,8 +1,12 @@
-# React + Vite
+# Toast / Notification Component ( System Design )
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend System Design Question on building a Scalable Toast or Notification Component will be discussed in this lesson along with Requirement gathering, HLD, LLD and Optimisations required to build a component like this.
 
-Currently, two official plugins are available:
+## Resources
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Part 1 - https://www.youtube.com/watch?v=v50uJDEFnqM
+Part 2 - Paid Course
+
+## Notes
+
+HLD Diagram - https://app.eraser.io/workspace/ddlyDxZVvtiS7KqrEbKl?origin=share
