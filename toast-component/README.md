@@ -4,8 +4,8 @@ Frontend System Design Question on building a Scalable Toast or Notification Com
 
 ## Resources
 
-Part 1 - https://www.youtube.com/watch?v=v50uJDEFnqM
-Part 2 - Paid Course
+- Part 1 - https://www.youtube.com/watch?v=v50uJDEFnqM
+- Part 2 - $ Course
 
 ## Notes
 
