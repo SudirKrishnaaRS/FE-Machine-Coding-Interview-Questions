@@ -8,7 +8,18 @@ const SuggestionsList = ({
   onSuggestionClick,
 }) => {
   const getHighightedText = (text, highlight) => {
-    return text;
+    const parts = text.split(new RegExp(`(${highlight})`, "gi")); // Here `g` means global and `i` means case-insensitive
+    return (
+      <span>
+        {parts.map((part, index) => {
+          return part.toLowerCase() === highlight.toLowerCase() ? (
+            <b key={index}>{part}</b>
+          ) : (
+            part
+          );
+        })}
+      </span>
+    );
   };
 
   return (
